@@ -4,7 +4,7 @@ margin:0px;
 padding:0px;
 font-size:12px;
 font-family:monospace
-color:#000;
+color:#fff;
 }
 p{
 text-align:justify;
@@ -56,7 +56,7 @@ list-style:none;display:inline;float:left;width:auto;padding:0px;font-size:12px;
 float:left;text-decoration:none;padding:0px 10px 0 10px; margin:0px 4px 0 4px;color:#000;text-align:center; height:31px; line-height:31px; 
 }
 #menu ul li a:hover{
-background-color:#8942f4;color:#fff;
+background-color:#8942f4;color:#3b3c3d;
 }
 #menu ul li a.current{
 float:left;text-decoration:none;padding:0px 10px 0 10px; margin:0px 4px 0 4px;color:#fff;text-align:center; height:31px; line-height:31px; background-color:#b52025;
