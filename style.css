@@ -6,6 +6,24 @@ font-size:12px;
 font-family:monospace
 color:#fff;
 }
+
+
+
+
+
+.normal {
+	filter: invert(0%);
+}
+
+.inverted {
+	filter: invert(100%);
+}
+
+
+
+
+
+
 p{
 text-align:justify;
 line-height:19px;
